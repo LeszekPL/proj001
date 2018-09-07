@@ -5,5 +5,6 @@
  */
 function foo() {
     var foo=0;
+    
 }
 
